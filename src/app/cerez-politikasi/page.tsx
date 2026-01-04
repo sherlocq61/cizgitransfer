@@ -54,10 +54,10 @@ export default function CerezPage() {
 
                         <h3>Tarayıcı Ayarları</h3>
                         <ul>
-                            <li><strong>Chrome:</strong> Ayarlar > Gizlilik ve güvenlik > Çerezler</li>
-                            <li><strong>Firefox:</strong> Seçenekler > Gizlilik ve Güvenlik</li>
-                            <li><strong>Safari:</strong> Tercihler > Gizlilik</li>
-                            <li><strong>Edge:</strong> Ayarlar > Çerezler ve site izinleri</li>
+                            <li><strong>Chrome:</strong> Ayarlar &gt; Gizlilik ve güvenlik &gt; Çerezler</li>
+                            <li><strong>Firefox:</strong> Seçenekler &gt; Gizlilik ve Güvenlik</li>
+                            <li><strong>Safari:</strong> Tercihler &gt; Gizlilik</li>
+                            <li><strong>Edge:</strong> Ayarlar &gt; Çerezler ve site izinleri</li>
                         </ul>
 
                         <h2>Değişiklikler</h2>
